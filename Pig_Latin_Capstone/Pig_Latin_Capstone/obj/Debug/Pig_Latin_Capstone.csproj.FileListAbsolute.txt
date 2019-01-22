@@ -1,0 +1,7 @@
+C:\Users\justi\Documents\Grandcircus projects\capstones\Pig_Latin_Capstone\Pig_Latin_Capstone\bin\Debug\Pig_Latin_Capstone.exe.config
+C:\Users\justi\Documents\Grandcircus projects\capstones\Pig_Latin_Capstone\Pig_Latin_Capstone\bin\Debug\Pig_Latin_Capstone.exe
+C:\Users\justi\Documents\Grandcircus projects\capstones\Pig_Latin_Capstone\Pig_Latin_Capstone\bin\Debug\Pig_Latin_Capstone.pdb
+C:\Users\justi\Documents\Grandcircus projects\capstones\Pig_Latin_Capstone\Pig_Latin_Capstone\obj\Debug\Pig_Latin_Capstone.csprojAssemblyReference.cache
+C:\Users\justi\Documents\Grandcircus projects\capstones\Pig_Latin_Capstone\Pig_Latin_Capstone\obj\Debug\Pig_Latin_Capstone.csproj.CoreCompileInputs.cache
+C:\Users\justi\Documents\Grandcircus projects\capstones\Pig_Latin_Capstone\Pig_Latin_Capstone\obj\Debug\Pig_Latin_Capstone.exe
+C:\Users\justi\Documents\Grandcircus projects\capstones\Pig_Latin_Capstone\Pig_Latin_Capstone\obj\Debug\Pig_Latin_Capstone.pdb
